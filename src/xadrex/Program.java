@@ -1,9 +1,9 @@
 package xadrex;
-import boardgame.Board;
+import boardgame.Boardd;
 public class Program {
 
 	public static void main(String[] args) {
-		Board board = new Board(8,8);
+		Boardd board = new Boardd(8,8);
 	}
 
 }
